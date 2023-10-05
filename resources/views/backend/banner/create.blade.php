@@ -1,6 +1,6 @@
 @extends('backend.layouts.master')
 
-@section('title','Foufa Style || Banner Create')
+@section('title','EcoSpark || Banner Create')
 
 @section('main-content')
 

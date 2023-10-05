@@ -1,5 +1,5 @@
 @extends('backend.layouts.master')
-@section('title','Foufa Style || Page Produits')
+@section('title','EcoSpark || Page Produits')
 @section('main-content')
  <!-- DataTales Example -->
  <div class="card shadow mb-4">

@@ -1,5 +1,5 @@
 @extends('user.layouts.master')
-@section('title','Foufa Style || Page de commentaire')
+@section('title','EcoSpark || Page de commentaire')
 @section('main-content')
  <!-- DataTales Example -->
  <div class="card shadow mb-4">

@@ -1,6 +1,6 @@
 @extends('frontend.layouts.master')
 
-@section('title','Foufa Style || PAGE PRODUITS')
+@section('title','EcoSpark || PAGE PRODUITS')
 
 @section('main-content')
 

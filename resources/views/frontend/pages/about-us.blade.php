@@ -1,6 +1,6 @@
 @extends('frontend.layouts.master')
 
-@section('title','Foufa Style || À propos de nous')
+@section('title','EcoSpark || À propos de nous')
 
 @section('main-content')
 
@@ -31,7 +31,7 @@
 								$settings=DB::table('settings')->get();
 							@endphp
 							<h3>
-                                Bienvenue à <span>Foufa Style</span></h3>
+                                Bienvenue à <span>EcoSpark</span></h3>
 							<p>@foreach($settings as $data) {{$data->description}} @endforeach</p>
 							<div class="button">
 								<a href="{{route('blog')}}" class="btn">NOTRE BLOG</a>

@@ -1,5 +1,5 @@
 @extends('backend.layouts.master')
-@section('title','Foufa Style || Banner Edit')
+@section('title','EcoSpark || Banner Edit')
 @section('main-content')
 
 <div class="card">

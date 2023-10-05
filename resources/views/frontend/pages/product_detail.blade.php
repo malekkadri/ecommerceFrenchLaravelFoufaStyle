@@ -14,7 +14,7 @@
 	<meta property="og:image" content="{{$product_detail->photo}}">
 	<meta property="og:description" content="{{$product_detail->description}}">
 @endsection
-@section('title','Foufa Style || DÉTAIL DU PRODUIT')
+@section('title','EcoSpark || DÉTAIL DU PRODUIT')
 @section('main-content')
 
 		<!-- Breadcrumbs -->

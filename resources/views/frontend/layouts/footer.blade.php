@@ -77,7 +77,7 @@
 					<div class="row">
 						<div class="col-lg-6 col-12">
 							<div class="left">
-								<p>Copyright © {{date('Y')}} <a href="https://www.facebook.com/KamergiAudio.tunisie/" target="_blank">Foufa Style</a>  - All Rights Reserved. - Made by <a href="https://www.linkedin.com/in/malek-kadri/"> Malek Kadri </a></p>
+								<p>Copyright © {{date('Y')}} <a href="https://www.facebook.com/ecospark.tunisie/" target="_blank">EcoSpark</a>  - All Rights Reserved. - Made by <a href="https://www.linkedin.com/in/malek-kadri/"> Malek Kadri </a></p>
 							</div>
 						</div>
 						<div class="col-lg-6 col-12">

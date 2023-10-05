@@ -1,6 +1,6 @@
 @extends('frontend.layouts.master')
 
-@section('title','Foufa Style || Blog ')
+@section('title','EcoSpark || Blog ')
 
 @section('main-content')
     <!-- Breadcrumbs -->

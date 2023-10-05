@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>Foufa Style || Page de connexion</title>
+  <title>EcoSpark || Page de connexion</title>
   @include('backend.layouts.head')
 
 </head>
