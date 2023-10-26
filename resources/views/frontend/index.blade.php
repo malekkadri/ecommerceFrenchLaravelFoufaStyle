@@ -320,7 +320,7 @@
 </section>
 <!-- End Shop Home List  -->
 
-<!-- Start Shop Blog  -->
+{{-- <!-- Start Shop Blog  -->
 <section class="shop-blog section">
     <div class="container">
         <div class="row">
@@ -351,7 +351,7 @@
         </div>
     </div>
 </section>
-<!-- End Shop Blog  -->
+<!-- End Shop Blog  --> --}}
 
 <!-- Start Shop Services Area -->
 <section class="shop-services section home">
